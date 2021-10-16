@@ -7,7 +7,7 @@
 
 #import "AppDelegate.h"
 
-#import <Onfido/Onfido.h>
+@import Onfido;
 
 @interface AppDelegate ()
 
